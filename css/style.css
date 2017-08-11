@@ -1,0 +1,15 @@
+html, body
+  height: 10%
+
+body
+  margin: 0
+  padding: 0
+  background: #fff
+  color: #eee
+
+.dg
+  font: caption !important
+  text-shadow: none !important
+  .property-name
+    font: small-caption !important
+    line-height: 27px !important
